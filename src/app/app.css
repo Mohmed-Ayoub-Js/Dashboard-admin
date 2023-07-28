@@ -1,0 +1,16 @@
+.icon{
+    font-size: 1000px;
+}
+.image{
+    width: 212px;
+    height: 212px;
+}
+.item{
+    box-shadow: 0 0 10px 0 black;
+}
+.get{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap:nowrap;
+}

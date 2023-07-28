@@ -1,0 +1,27 @@
+.containerApplication{
+    width: 50%;
+    direction: rtl;
+    display: flex;
+    align-items: center;
+}
+.data{
+    position: relative;
+    right: -661px;
+    box-shadow: 0 0 4px 0 black;
+    border-radius: 20px;
+}
+.chart{
+    position: relative;
+    right: 305px;
+    width: 138%;
+}
+.basic{
+    position: relative;
+    right: -330px;
+    top: 2vh;
+}
+.custom{
+    position: relative;
+    top: -120vh;
+    right: -657px;
+}
